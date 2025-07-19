@@ -1,0 +1,16 @@
+build/
+
+*.obj
+*.pdb
+*.ilk
+*.ipch
+*.tlog/
+*.lastbuildstate
+*.log
+*.vcxproj.user
+*.vcxproj.filters
+*.vs/
+*.suo
+*.cache
+*.opensdf
+*.VC.db
