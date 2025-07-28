@@ -25,12 +25,12 @@ class Tuples
 
 inline Tuples point(float x, float y, float z)
 {
-    return Tuples{x, y, z, 1};
+    return Tuples(x, y, z, 1);
 }
 
 inline Tuples vector(float x, float y, float z)
 {
-    return Tuples{x, y, z, 0};
+    return Tuples(x, y, z, 0);
 }
 
 #endif
